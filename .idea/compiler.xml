@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="sparkTest" />
         <module name="publicsentiment" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="publicsentiment" target="1.8" />
       <module name="spark-mvn" target="1.8" />
+      <module name="sparkTest" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

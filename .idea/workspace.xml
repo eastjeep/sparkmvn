@@ -2,44 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab5a05a1-d2ae-48b8-97aa-96f028eb4a59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sparkTest/sparkTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/HotNewsAnalysis.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/HotNewsTextRank.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/HotWordAnalysis.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/HotWordSplit.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/ModelMain.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/PipeLinePro.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/PipeLineTraining.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/SparkInitial.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/SplitUserLog.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/SplitWordsTools.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/TrendAnalysis.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/practiceTestforRef/MLlibDFBasedTest.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/practiceTestforRef/MLlibRDDBasedTest.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/RDD/JavaTransform.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/RDD/ScalaTransform.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/ScalaMatrixVector/MatrixDemo1.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkMachineLearning/Demo1_pipeline.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkMachineLearning/Demo2_MLR_News.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkMachineLearning/FeatureSelect.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkMachineLearning/FeatureTransform.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkMachineLearning/KmeansScalaDemo.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkMachineLearning/PMMLDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkMachineLearning/RegressionTest.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkSQL/SparkSchema.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkSQL/SparkStructMySQL.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkSQL/StructTypeSchema.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkStreaming/KafkaUpDataWC.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkStreaming/NetWorkUpStateWordCount.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkStreaming/NetWorkWordCount.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/spark1/WordCount.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/test.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/publicsentiment/target/" />
+    <ignored path="$PROJECT_DIR$/sparkTest/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,14 +28,18 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="473">
-              <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+              <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/publicsentiment/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/sparkTest/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -118,20 +95,37 @@
             <path>
               <item name="spark-mvn" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkmvn" type="462c0819:PsiDirectoryNode" />
-              <item name="publicsentiment" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spark-mvn" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkmvn" type="462c0819:PsiDirectoryNode" />
-              <item name="publicsentiment" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spark-mvn" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkmvn" type="462c0819:PsiDirectoryNode" />
-              <item name="publicsentiment" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark-mvn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmvn" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark-mvn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmvn" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -144,7 +138,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sparkTest/src/main/scala/com/taikang" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
@@ -172,12 +166,12 @@
       <option name="presentableId" value="Default" />
       <updated>1610062235217</updated>
       <workItem from="1610062239413" duration="1056000" />
-      <workItem from="1610180736596" duration="1196000" />
+      <workItem from="1610180736596" duration="2023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2252000" />
+    <option name="totallyTimeSpent" value="3079000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -222,15 +216,29 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/practiceTestforRef/MLlibDFBasedTest.scala">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/publicsentiment/src/main/scala/com/taikang/HotNewsAnalysis.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+        <state relative-caret-position="76">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/publicsentiment/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkTest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
