@@ -1,9 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab5a05a1-d2ae-48b8-97aa-96f028eb4a59" name="Default Changelist" comment="" />
+    <list default="true" id="ab5a05a1-d2ae-48b8-97aa-96f028eb4a59" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/HotNewsAnalysis.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/HotNewsTextRank.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/HotWordAnalysis.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/HotWordSplit.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/ModelMain.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/PipeLinePro.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/PipeLineTraining.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/SparkInitial.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/SplitUserLog.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/SplitWordsTools.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/TrendAnalysis.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/practiceTestforRef/MLlibDFBasedTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/practiceTestforRef/MLlibRDDBasedTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/RDD/JavaTransform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/RDD/ScalaTransform.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/ScalaMatrixVector/MatrixDemo1.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkMachineLearning/Demo1_pipeline.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkMachineLearning/Demo2_MLR_News.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkMachineLearning/FeatureSelect.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkMachineLearning/FeatureTransform.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkMachineLearning/KmeansScalaDemo.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkMachineLearning/PMMLDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkMachineLearning/RegressionTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkSQL/SparkSchema.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkSQL/SparkStructMySQL.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkSQL/StructTypeSchema.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkStreaming/KafkaUpDataWC.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkStreaming/NetWorkUpStateWordCount.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/SparkStreaming/NetWorkWordCount.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/zuikc/spark1/WordCount.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/test.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/publicsentiment/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,22 +47,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="77" column="26" lean-forward="true" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+            <state relative-caret-position="473">
+              <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/taikang/PublicSentiment/practiceTestforRef/MLlibDFBasedTest.scala">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/publicsentiment/pom.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -34,6 +69,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -54,280 +96,6 @@
     <option name="runMavenInBackground" value="false" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/spark-mvn.iml" />
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_apple_AppleJavaExtensions_1_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_carrotsearch_hppc_0_7_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_chuusai_shapeless_2_11_2_3_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_clearspring_analytics_stream_2_7_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_databricks_spark_csv_2_10_1_0_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_7_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_7_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_7_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_7_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_paranamer_2_7_9.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_7_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fommil_netlib_core_1_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_github_luben_zstd_jni_1_3_2_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_github_rwl_jtransforms_2_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stephenc_jcip_jcip_annotations_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_27_0_jre.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_re2j_re2j_1_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_efficient_java_matrix_library_ejml_0_23.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_0_3_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_huaban_jieba_analysis_1_0_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_io7m_xom_xom_1_2_10.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_1_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_jolbox_bonecp_0_8_0_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_nimbus_jose_jwt_4_41_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_ning_compress_lzf_1_0_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp_okhttp_2_7_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_6_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_3_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_4_0_b180830_0438.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_2_11_0_8_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_java_0_8_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_parquet_hadoop_bundle_1_6_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_univocity_univocity_parsers_2_5_9.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_vlkan_flatbuffers_1_2_0_3f79e055.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_2_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__de_jollyday_jollyday_0_4_9.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__edu_stanford_nlp_stanford_corenlp_3_9_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__edu_stanford_nlp_stanford_corenlp_models_3_9_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_airlift_aircompressor_0_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_1_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_graphite_3_1_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_json_3_1_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_jvm_3_1_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_9_9_Final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_17_Final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_jdo_jdo_api_3_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_jta_1_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_4_0_b180830_0359.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javolution_javolution_5_5_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__log4j_apache_log4j_extras_1_2_17.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_hydromatic_eigenbase_properties_1_1_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_iharder_base64_2_3_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_razorvine_pyrolite_4_13.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_opencsv_opencsv_2_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_py4j_py4j_0_10_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_f2j_arpack_combined_all_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_ST4_4_0_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_arrow_arrow_format_0_8_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_arrow_arrow_memory_0_8_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_arrow_arrow_vector_0_8_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_7_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_ipc_1_7_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_ipc_tests_1_7_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_mapred_hadoop2_1_7_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_calcite_calcite_avatica_1_2_0_incubating.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_calcite_calcite_core_1_2_0_incubating.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_calcite_calcite_linq4j_1_2_0_incubating.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_configuration2_2_1_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_crypto_1_0_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_csv_1_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_4_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_2_13_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_6_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_6_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_derby_derby_10_12_1_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_3_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_3_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_3_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_3_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_client_3_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_3_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_3_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_3_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_3_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_3_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_3_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_htrace_htrace_core4_4_1_0_incubating.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ivy_ivy_2_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_11_0_8_2_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_10_2_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kerby_kerb_admin_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kerby_kerb_client_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kerby_kerb_common_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kerby_kerb_core_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kerby_kerb_crypto_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kerby_kerb_identity_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kerby_kerb_server_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kerby_kerb_simplekdc_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kerby_kerb_util_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kerby_kerby_asn1_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kerby_kerby_config_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kerby_kerby_pkix_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kerby_kerby_util_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kerby_kerby_xdr_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kerby_token_provider_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_4_10_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_4_10_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_4_10_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_4_10_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_4_10_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_orc_orc_core_nohive_1_4_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_orc_orc_mapreduce_nohive_1_4_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_column_1_8_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_common_1_8_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_encoding_1_8_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_format_2_3_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_hadoop_1_8_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_jackson_1_8_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_catalyst_2_11_2_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_core_2_11_2_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_graphx_2_11_2_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_hive_2_11_2_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_kvstore_2_11_2_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_launcher_2_11_2_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_mllib_2_11_2_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_mllib_local_2_11_2_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_common_2_11_2_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_shuffle_2_11_2_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_sketch_2_11_2_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_sql_2_11_2_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_2_11_2_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_kafka_0_8_2_11_2_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_tags_2_11_2_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_unsafe_2_11_2_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_thrift_libfb303_0_9_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xbean_xbean_asm5_shaded_4_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_52.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_janino_commons_compiler_3_0_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_janino_janino_3_0_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_datanucleus_datanucleus_api_jdo_3_2_6.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_datanucleus_datanucleus_core_3_2_10.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_datanucleus_datanucleus_rdbms_3_2_9.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_3_24_v20180605.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_3_24_v20180605.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_3_24_v20180605.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_3_24_v20180605.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_3_24_v20180605.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_4_0_b34.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_4_0_b34.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_4_0_b34.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_4_0_b34.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_javax_json_1_0_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_2_3_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_22_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_22_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_22_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_iq80_snappy_snappy_0_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_3_5_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jpmml_jpmml_converter_1_3_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jpmml_jpmml_sparkml_1_5_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jpmml_pmml_agent_1_4_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jpmml_pmml_evaluator_1_4_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jpmml_pmml_evaluator_extension_1_4_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jpmml_pmml_model_1_4_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jpmml_pmml_model_metro_1_4_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_ast_2_11_3_2_11.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_core_2_11_3_2_11.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_jackson_2_11_3_2_11.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_roaringbitmap_RoaringBitmap_0_7_45.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_roaringbitmap_shims_0_7_45.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_xml_2_11_1_0_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_compiler_2_11_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_11_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scalap_2_11_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_scalanlp_breeze_2_11_0_13_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_scalanlp_breeze_macros_2_11_0_13_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_16.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_16.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_16.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_16.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_spark_project_hive_hive_exec_1_2_1_spark2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_spark_project_hive_hive_metastore_1_2_1_spark2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_spark_project_spark_unused_1_0_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_spire_math_spire_2_11_0_13_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_spire_math_spire_macros_2_11_0_13_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_typelevel_machinist_2_11_0_6_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_typelevel_macro_compat_2_11_1_1_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_6.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_8_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_3_03.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
@@ -339,7 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -350,56 +118,30 @@
             <path>
               <item name="spark-mvn" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkmvn" type="462c0819:PsiDirectoryNode" />
+              <item name="publicsentiment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark-mvn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmvn" type="462c0819:PsiDirectoryNode" />
+              <item name="publicsentiment" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spark-mvn" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkmvn" type="462c0819:PsiDirectoryNode" />
+              <item name="publicsentiment" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark-mvn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparkmvn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark-mvn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparkmvn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark-mvn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparkmvn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="taikang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark-mvn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparkmvn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="taikang" type="462c0819:PsiDirectoryNode" />
-              <item name="PublicSentiment" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -429,31 +171,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610062235217</updated>
-      <workItem from="1610062239413" duration="684000" />
+      <workItem from="1610062239413" duration="1056000" />
+      <workItem from="1610180736596" duration="1196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="684000" />
+    <option name="totallyTimeSpent" value="2252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25383994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -461,16 +197,22 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,10 +224,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="77" column="26" lean-forward="true" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+        <state relative-caret-position="473">
+          <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publicsentiment/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/publicsentiment/publicsentiment.iml" filepath="$PROJECT_DIR$/publicsentiment/publicsentiment.iml" />
       <module fileurl="file://$PROJECT_DIR$/spark-mvn.iml" filepath="$PROJECT_DIR$/spark-mvn.iml" />
     </modules>
   </component>
